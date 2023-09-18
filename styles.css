@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+body{
+	background-color:beige;
+	font-family:arial;
+}
+.center{
+	text-align:center;
+	background-color:red;
+	padding:40px;
+	margin:0px;
+}
+.font{
+	font-family:monospace;
+	font-weigth:bold;
+}
+h2{
+	color:red;
+}
